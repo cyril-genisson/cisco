@@ -1,5 +1,5 @@
 # Cisco Project
-Les screenshoots sont dans le dossier cisco_pictures.
+Les screenshots sont dans le dossier cisco_pictures.
 Les simulations sont dans le dossier cisco_pkt.
 
 ## Basic
