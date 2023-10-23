@@ -24,5 +24,5 @@ Voir **A-vos-smarts.pkt**
 ## Réseau mobile
 Voir **Reseau-mobile.pkt**
 ## Architecture Physique
-Voir **Architecture-Physique.pkt*
+Voir **Architecture-Physique.pkt**
 
