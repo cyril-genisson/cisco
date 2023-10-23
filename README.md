@@ -5,11 +5,11 @@ Les simulations sont dans le dossier cisco_pkt.
 ## Basic
 Voir **Basic.pkt**
 
-- Différence entre Fast Ethernet 0/1 et 1/1:
-L'interface Fast Ethernet 0/1 est le module fournissant une
+- **Différence entre Fast Ethernet 0/1 et 1/1:**
+    - L'interface Fast Ethernet 0/1 est le module fournissant une
 interface Fast Ethernet logé dans l'emplacement n° 0 du switch.
-l'interface Fast Ethernet 1/1 est le même module logé dans 
-l'emplacement n°1 du switch
+    - L'interface Fast Ethernet 1/1 est le même module logé dans 
+l'emplacement n°1 du switch.
 
 ## Switch
 Voir **Switch.pkt**
